@@ -20,7 +20,6 @@ More folders will be added as new topics are introduced.
 ### 📌 Current Main Folders
 
 - 🐍 **Python**  
-- 📦 **Libraries**  
 - 🤖 **Machine Learning**  
 - 🧠 **Deep Learning**  
 - 🗣️ **NLP (Natural Language Processing)**  
@@ -91,7 +90,6 @@ Python/
 
 The same structure is followed in:
 
-- Libraries
 - Machine Learning
 - Deep Learning
 - NLP
